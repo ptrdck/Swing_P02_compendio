@@ -4,6 +4,7 @@
 # GitHub_MarkDown_Practica01
 
 ## *Documentación sobre Swing_P02_compendio*
+#### *Pedro Patricio Cárdenas Figueroa*
 _______________________
 
 ### Descripción del proyecto
@@ -17,7 +18,7 @@ _______________________
 - Creación de un proyecto en *GitHub*.
 - Copiar contenido *compendio 2* en carpeta de ***desarrollo***
 - Creación de *ejecutable* en carpeta ***ejecutable***
-- Creación de *documentos de usabilidad* en carpeta ***documentación***
+- Creación de *documentos de usabilidad* en carpeta ***documentación*** (pendiente de desarollo)
 - Creación de *javaDoc* en carpeta ***documentación técnica***
 - Creación de ***README.md*** 
 _______________________
